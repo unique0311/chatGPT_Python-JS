@@ -1,5 +1,3 @@
-working again ; ) 
-I am very busy at the moment so I would be very thankful for contributions and PR's
 
 ## To do
 - [x] Double confirm when deleting conversation
